@@ -22,6 +22,16 @@ const pets = [
     age: 2,
     person: 'Andres',
     vet: 'Luis Carlos'
+  },
+  {
+    id: 3,
+    photo: 'https://www.webconsultas.com/sites/default/files/styles/wc_adaptive_image__small/public/temas/gato_persa.jpg',
+    name: 'Zafiro',
+    race: 'Persa',
+    type: 'Fenina',
+    age: 3,
+    person: 'Kelly Johana',
+    vet: 'Martha'
   }];
 
 const App = ()=>{
