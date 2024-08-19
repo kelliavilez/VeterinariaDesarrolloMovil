@@ -22,6 +22,16 @@ const pets = [
     age: 2,
     person: 'Andres',
     vet: 'Luis Carlos'
+  },
+  {
+    id: 2,
+    photo: 'https://cdn.redcanina.es/wp-content/uploads/2019/02/12102930/golden-cachorro-e1549967733842-1024x650.jpg',
+    name: 'Pacho',
+    race: 'Golden',
+    type: 'Canine',
+    age: 2,
+    person: 'Andres',
+    vet: 'Luis Carlos'
   }];
 
 const App = ()=>{
