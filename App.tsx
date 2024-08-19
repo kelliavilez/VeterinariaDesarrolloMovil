@@ -32,7 +32,18 @@ const pets = [
     age: 3,
     person: 'Kelly Johana',
     vet: 'Martha'
-  }];
+  },
+  {
+    id: 4,
+    photo: 'https://dovet.es/wp-content/uploads/2019/06/cachorro-pastor-aleman.jpg',
+    name: 'Polo',
+    race: 'Pastor aleman',
+    type: 'Perro',
+    age: 3,
+    person: 'Juliana',
+    vet: 'Martha'
+  }
+  ];
 
 const App = ()=>{
   return(
